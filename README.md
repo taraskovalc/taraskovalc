@@ -1,6 +1,6 @@
 ### Hi, I'm Taras
 
-Computer Science student at Western University (Class of 2029), based in London, Ontario. I like working on projects where software meets the real world, from websites to Arduino builds.
+Computer Science student at Western University (Class of 2029), based in London, Ontario. I enjoy working on projects that allows me to improve my software skills and use my software skills to work on hands on projects, my current projects range from websites to Arduino builds.
 
 **Right now I'm**
 - studying Computer Science at Western University
